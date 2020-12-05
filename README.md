@@ -16,7 +16,7 @@ Before running the model, the essential scripts are `function4GDD.R` and `modelN
 
 
 ## Output
-This program creates the output folder `Output` under which it generates the sequence of files as per locations listed on `ListLocations.csv.` First, it generates the time series of GDD and accumulated GDD in file `[RCPNAME]Year.csv` under the folder named  `[CROPNAME]/[SITENAME]` together with time series plot under the same folder. These `csv` files can be used for post processing. It also generates a set of `csv` files for each genation and each crop under [CROPNAME]/Statistics/[#SITENAME][RECPBAME[Date,csv.`
+This program creates the output folder `Output` under which it generates the sequence of files as per locations listed on `ListLocations.csv.` First, it generates the time series of GDD and accumulated GDD in file `[RCPNAME]Year.csv` under the folder named  `[CROPNAME]/[SITENAME]` together with time series plot under the same folder. These `csv` files can be used for post processing. It also generates a set of `csv` files for each genation and each crop under `[CROPNAME]/Statistics/[#SITENAME][RECPBAME[Date,csv.`
 
 
 
